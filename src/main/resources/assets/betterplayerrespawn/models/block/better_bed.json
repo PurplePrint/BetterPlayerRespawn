@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "betterplayerrespawn:blocks/better_bed_side",
+    "down": "betterplayerrespawn:blocks/better_bed_bottom",
+    "up": "betterplayerrespawn:blocks/better_bed_top",
+    "north": "betterplayerrespawn:blocks/better_bed_side",
+    "south": "betterplayerrespawn:blocks/better_bed_side",
+    "west": "betterplayerrespawn:blocks/better_bed_side",
+    "east": "betterplayerrespawn:blocks/better_bed_side"
+  }
+}

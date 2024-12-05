@@ -1,0 +1,6 @@
+tile.betterplayerrespawn.better_bed.name=Лучшая Кровать
+item.betterplayerrespawn.better_bed.name=Лучшая кровать
+tile.betterplayerrespawn.better_bed_reinforced.name=Прочная Лучшая Кровать
+item.betterplayerrespawn.better_bed_reinforced.name=Прочная Лучшая Кровать
+
+message.betterplayerrespawn.nospawn=Вы не можете установить точку возрождения с помощью кровати! Используйте Лучшую Кровать.

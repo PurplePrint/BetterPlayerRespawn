@@ -1,0 +1,13 @@
+tile.betterplayerrespawn.better_bed.name=Better Bed
+item.betterplayerrespawn.better_bed.name=Better Bed
+tile.betterplayerrespawn.better_bed_reinforced.name=Better Bed Reinforced
+item.betterplayerrespawn.better_bed_reinforced.name=Better Bed Reinforced
+
+message.betterplayerrespawn.nospawn=You cannot set your spawn point using a bed! Use Better Bed instead.
+
+menu.returnToMenu=Return to Menu
+menu.respawn.worldSpawn=Respawn at World Spawn
+menu.respawn.tempSpawn=Respawn at Temporary Point
+menu.respawn.home=Respawn at Home
+message.betterplayerrespawn.invalidspawn=Invalid spawn point!
+message.betterplayerrespawn.nospawnset=No spawn point set for %s!
